@@ -1,0 +1,70 @@
+00:00:00.001661 main     VirtualBox COM Server 6.0.14 r133895 win.amd64 (Oct 10 2019 19:44:31) release log
+00:00:00.001663 main     Log opened 2019-10-28T17:55:47.678395800Z
+00:00:00.001663 main     Build Type: release
+00:00:00.001697 main     OS Product: Windows 10
+00:00:00.001698 main     OS Release: 10.0.17134
+00:00:00.001699 main     OS Service Pack: 
+00:00:00.016515 main     DMI Product Name: HP ProDesk 600 G1 SFF
+00:00:00.025322 main     DMI Product Version: 
+00:00:00.025331 main     Host RAM: 3986MB (3.8GB) total, 1699MB available
+00:00:00.025360 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.025361 main     Process ID: 6920
+00:00:00.025361 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.061289          VirtualBox: object creation starts
+00:00:00.061635          Home directory: 'C:\Users\43631478\.VirtualBox'
+00:00:00.061778          Installed Drivers:
+00:00:00.071560            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 6.0.14.33895)
+00:00:00.071881            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.0.14.33895)
+00:00:00.072198            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.0.14.33895)
+00:00:00.072514            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.0.14.33895)
+00:00:00.280645          HostDnsMonitor::updateInfo
+00:00:00.280711          HostDnsMonitor: old information
+00:00:00.280731            no server entries
+00:00:00.280732            no domain set
+00:00:00.280732            no search string entries
+00:00:00.280733          HostDnsMonitor: new information
+00:00:00.280733            server 1: 10.128.1.0
+00:00:00.280734            server 2: 10.128.1.1
+00:00:00.280735            server 3: 10.128.1.4
+00:00:00.280735            domain: ALMAGRO.ort.arg
+00:00:00.280736            no search string entries
+00:00:00.326501          VD: VDInit finished with VINF_SUCCESS
+00:00:00.327982          VirtualBox: object created
+00:00:01.726613          Saving settings file "C:\Users\43631478\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.739979          Saving settings file "C:\Users\43631478\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:37.817722 createBase Saving settings file "C:\Users\43631478\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:38.361204          Saving settings file "C:\Users\43631478\VirtualBox VMs\MiMaquina\MiMaquina.vbox" with version "1.15-windows"
+00:02:38.379247          Saving settings file "C:\Users\43631478\VirtualBox VMs\MiMaquina\MiMaquina.vbox" with version "1.15-windows"
+00:02:38.383525          Saving settings file "C:\Users\43631478\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:38.392101          Saving settings file "C:\Users\43631478\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:38.396360          Saving settings file "C:\Users\43631478\VirtualBox VMs\MiMaquina\MiMaquina.vbox" with version "1.15-windows"
+00:02:38.407565          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={MachineWrap} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+00:03:03.508075          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:03:03.768164          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:03:03.846148          Saving settings file "C:\Users\43631478\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:03.851465          Saving settings file "C:\Users\43631478\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:03.856455          Saving settings file "C:\Users\43631478\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:03.861133          Saving settings file "C:\Users\43631478\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:03.865599          Saving settings file "C:\Users\43631478\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:05:53.896589          Saving settings file "C:\Users\43631478\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:10:52.815279          Saving settings file "C:\Users\43631478\VirtualBox VMs\MiMaquina\MiMaquina.vbox" with version "1.15-windows"
+00:10:52.894399          Saving settings file "C:\Users\43631478\VirtualBox VMs\MiMaquina\MiMaquina.vbox" with version "1.15-windows"
+00:10:52.900584 SaveState Saving settings file "C:\Users\43631478\VirtualBox VMs\MiMaquina\MiMaquina.vbox" with version "1.15-windows"
+00:10:53.433521          Saving settings file "C:\Users\43631478\VirtualBox VMs\MiMaquina\MiMaquina.vbox" with version "1.15-windows"
+00:10:53.464241          Saving settings file "C:\Users\43631478\VirtualBox VMs\MiMaquina\MiMaquina.vbox" with version "1.15-windows"
+00:14:15.679688          Saving settings file "C:\Users\43631478\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:14:15.691738          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:14:53.414450 createBase Saving settings file "C:\Users\43631478\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:14:53.950632          Saving settings file "C:\Users\43631478\VirtualBox VMs\Windows 7\Windows 7.vbox" with version "1.15-windows"
+00:14:53.972633          Saving settings file "C:\Users\43631478\VirtualBox VMs\Windows 7\Windows 7.vbox" with version "1.15-windows"
+00:14:53.979142          Saving settings file "C:\Users\43631478\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:14:53.991656          Saving settings file "C:\Users\43631478\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:14:53.998994          Saving settings file "C:\Users\43631478\VirtualBox VMs\Windows 7\Windows 7.vbox" with version "1.15-windows"
+00:14:54.026078          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={MachineWrap} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+00:15:09.446754          Saving settings file "C:\Users\43631478\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:09.453799          Saving settings file "C:\Users\43631478\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:11.041792          Saving settings file "C:\Users\43631478\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:11.059722          Saving settings file "C:\Users\43631478\VirtualBox VMs\Windows 7\Windows 7.vbox" with version "1.15-windows"
+00:15:11.063573          Saving settings file "C:\Users\43631478\VirtualBox VMs\Windows 7\Windows 7.vbox" with version "1.15-windows"
+00:15:18.591209          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:15:18.866130          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37

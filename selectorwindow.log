@@ -1,0 +1,43 @@
+00:00:00.467068 VirtualBox GUI VM Selector Window 6.0.14 r133895 win.amd64 (Oct 10 2019 19:44:31) release log
+00:00:00.467070 Log opened 2019-10-28T17:55:48.039598500Z
+00:00:00.467071 Build Type: release
+00:00:00.467074 OS Product: Windows 10
+00:00:00.467075 OS Release: 10.0.17134
+00:00:00.467076 OS Service Pack: 
+00:00:00.476574 DMI Product Name: HP ProDesk 600 G1 SFF
+00:00:00.480272 DMI Product Version: 
+00:00:00.480282 Host RAM: 3986MB (3.8GB) total, 1702MB available
+00:00:00.480292 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.480293 Process ID: 8816
+00:00:00.480293 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.480431 Qt version: 5.6.2
+00:00:00.497539 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.497554 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.939562 refreshCertificates/#3: Found 1/43 SSL certs we/you trust (previously 0/0).
+00:00:18.769541 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:18.769633 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:38.449328 GUI: UIMediumEnumerator: Medium with key={{da12b3a3-e4b2-4ec0-afc9-42517247a862}} created
+00:02:38.544762 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:10:52.939387 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:10:53.030736 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:10:53.587675 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:10:53.605533 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:12:33.209113 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:12:33.809112 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:12:45.087583 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:12:45.138997 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:13:12.344193 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:13:12.460147 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:13:26.032445 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:13:26.145773 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:14:04.896817 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:14:04.925289 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:14:19.000416 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:14:19.000486 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:14:54.040363 GUI: UIMediumEnumerator: Medium with key={{3dcc838f-c274-4a71-853b-b61394b9c231}} created
+00:14:54.180779 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:14:57.658074 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:14:58.039563 2D support test succeeded
+00:14:58.140265 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:15:09.578455 GUI: UIMediumEnumerator: Medium with key={{f9b812f1-02e2-4c27-bf6f-f03ac43ae674}} created
+00:15:11.210042 GUI: UIMediumEnumerator: Medium-enumeration finished!
